@@ -3,7 +3,7 @@ title: API Untethered
 description: A collection of packages to make Meteor available to other environments.
 ---
 
-## Managers
+## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 
 ## Pacakges
